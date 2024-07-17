@@ -5,7 +5,7 @@
 - I was born in Arizona but eventually moved to Canada 🇨🇦 
 - I have 3 pugs 🐶
 
-## Noteworth Projects
+## Noteworthy Projects
 * Standalone Obj Renderer
 * Ivy Minecraft Cheat
 
