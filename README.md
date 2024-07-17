@@ -1,7 +1,16 @@
-## Hello there 👋
+## Hey! My name is Leo 👋
 
 ## About Me
-My name is Leo, I have been programming for about five years and am always striving to learn new things. 
+- I have been programming for about five years and am always striving to learn new things 
+- I was born in Arizona but eventually moved to Canada 🇨🇦 
+- I have 3 pugs 🐶
+
+## Noteworth Projects
+* Standalone Obj Renderer
+* Ivy Minecraft Cheat
+
+## How you can reach me
+If you need to get ahold of me, feel free to shoot me an email at `leo.f.lees@gmail.com`!
 
 <!--
 **LeoL6/LeoL6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
