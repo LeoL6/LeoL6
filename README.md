@@ -6,8 +6,8 @@
 - I have 3 pugs 🐶
 
 ## Noteworthy Projects
-* Standalone Obj Renderer
-* Ivy Minecraft Cheat
+* [Standalone Obj Renderer](https://github.com/LeoL6/Obj-Renderer)
+* Ivy Minecraft Client
 
 ## How you can reach me
 If you need to get ahold of me, feel free to shoot me an email at `leo.f.lees@gmail.com`!
