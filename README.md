@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello there 👋
+
+## About Me
+My name is Leo, I have been programming for about five years and am always striving to learn new things. 
 
 <!--
 **LeoL6/LeoL6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
