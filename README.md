@@ -2,7 +2,7 @@
 
 ## About Me
 - I have been programming for about five years and am always striving to learn new things 
-- I was born in Arizona but eventually moved to Canada 🇨🇦 
+- I was born in Arizona but currently live in Canada 🇨🇦 
 - I have 3 pugs 🐶
 
 ## Noteworthy Projects
