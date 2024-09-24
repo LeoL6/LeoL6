@@ -8,6 +8,7 @@
 ## Noteworthy Projects
 * [Standalone Obj Renderer](https://github.com/LeoL6/Obj-Renderer)
 * [Roblox Admin Panel (with command system and webhook integration)](https://github.com/LeoL6/Roblox-Admin-Panel)
+* [Java Login Application using SQL, Swing, and BCrypt](https://github.com/LeoL6/minecraft-cheat-installer)
 * [Web-Based Drivers Test Simulator](https://github.com/LeoL6/Driving-Sim)
 * Ivy Minecraft Client
 
