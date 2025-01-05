@@ -8,7 +8,6 @@
 * [ESP32 Evil Captive Portal: "Phisher"](https://github.com/LeoL6/Phisher)
 * [Roblox Admin Panel (with command system and webhook integration)](https://github.com/LeoL6/Roblox-Admin-Panel)
 * [Java Login Application using SQL, Swing, and BCrypt](https://github.com/LeoL6/minecraft-cheat-installer)
-* Ivy Minecraft Client
 
 ## How you can reach me
 If you need to get ahold of me, feel free to shoot me an email at `leo.f.lees@gmail.com`!
