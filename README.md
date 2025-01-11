@@ -10,7 +10,7 @@
 * [Java Login Application using SQL, Swing, and BCrypt](https://github.com/LeoL6/minecraft-cheat-installer)
 
 ## How you can reach me
-If you need to get ahold of me, feel free to shoot me an email at `leo.f.lees@gmail.com`!
+If you need to get ahold of me, feel free to shoot me an email at `contact@leonardolees.com`!
 
 <!--
 **LeoL6/LeoL6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
