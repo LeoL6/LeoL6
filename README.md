@@ -7,6 +7,7 @@
 * [Standalone Obj Renderer](https://github.com/LeoL6/Obj-Renderer) 🔺
 * [ESP32 Evil Captive Portal: "Phisher"](https://github.com/LeoL6/Phisher) 🎣
 * [EGui Rust Network Trilateration Tool: "Triangle Gator"](https://github.com/LeoL6/triangle-gator) 🐊
+* [Sceptre Weather Dashboard (Supported by public NASA weather data)](https://github.com/LeoL6/Sceptre-Weather-Dashboard/) ⛈️
 * [Roblox Admin Panel (with command system and discord webhook integration)](https://github.com/LeoL6/Roblox-Admin-Panel) 🎮
 * [Java Login Application using SQL, Swing, and BCrypt](https://github.com/LeoL6/minecraft-cheat-installer) 📁
 
