@@ -4,7 +4,7 @@
 - I have 3 pugs 🐶
 
 ## Noteworthy Projects
-* [Decentralized EE2E Messaging Firmware/App: "Carrier Pigeon"](https://github.com/LeoL6/carrier-pigeon) 🐦
+* [Decentralized E2EE Messaging Firmware/App: "Carrier Pigeon"](https://github.com/LeoL6/carrier-pigeon) 🐦
 * [Standalone Obj Renderer](https://github.com/LeoL6/Obj-Renderer) 🔺
 * [ESP32 Evil Captive Portal: "Phisher"](https://github.com/LeoL6/Phisher) 🎣
 * [EGui Rust Network Trilateration Tool: "Triangle Gator"](https://github.com/LeoL6/triangle-gator) 🐊
