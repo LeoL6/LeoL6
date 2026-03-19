@@ -1,5 +1,5 @@
 ## Hey! My name is Leo 👋
-- I have been programming for about five years and am always striving to learn new things 
+- I have been programming for about six years and am always striving to learn new things 
 - I was born in Arizona but currently live in Canada 🇨🇦 
 - I have 3 pugs 🐶
 
